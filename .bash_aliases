@@ -10,6 +10,5 @@ alias gpp='git pull'
 alias gcb='git checkout -b'
 alias gc='git checkuot'
 alias gd='git diff'
-alias gs='git switch'
 
 alias nrs='npm run start'
