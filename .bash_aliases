@@ -1,4 +1,5 @@
 alias cl='clear'
+alias ll='ls -la'
 
 alias gcam='git commit -am'
 alias gcm='git commit -m'
